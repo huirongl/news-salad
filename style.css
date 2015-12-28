@@ -1,0 +1,44 @@
+.txt{
+  float:top;
+  color:orange;
+  float:right;
+
+}
+
+.switch{
+  float:right;
+  float:top;
+}
+
+.head {
+background-color: lightyellow;
+}
+
+#tt{
+
+font-size:24px;
+padding:0px;
+
+}
+
+#description {
+
+  font-size:15px;
+  color:grey;
+  padding:0px;
+
+}
+
+
+a {
+  color:black;
+}
+
+a:hover {
+  color: green;
+}
+
+a:visited {
+  color:lightgrey;
+
+}
